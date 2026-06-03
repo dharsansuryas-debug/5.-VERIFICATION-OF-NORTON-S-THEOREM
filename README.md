@@ -26,19 +26,25 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+<img width="1280" height="1103" alt="image" src="https://github.com/user-attachments/assets/2bbc81d2-3e56-4aba-befb-cca9f27c786e" />
+
 
 **To measure RTh or RN**
 
+<img width="1280" height="1065" alt="image" src="https://github.com/user-attachments/assets/1ead2a6d-f78d-43d0-b055-b0b95d7355ff" />
 
 
 **To measure IN or Isc**
 
- 
+ <img width="1280" height="677" alt="image" src="https://github.com/user-attachments/assets/456a69d5-e454-41d1-b988-8475b9c07907" />
+
 **Thevenin’s equivalent circuit**
 
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/82c24fea-ce72-4f92-a89f-fefc0aa67473" />
 
 **Norton’s equivalent circuit**
 
+<img width="1280" height="966" alt="image" src="https://github.com/user-attachments/assets/7c39c5c4-c050-4d3d-9351-6fd360fe901e" />
 
 **PROCEDURE:**
 
@@ -71,22 +77,24 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
+
 To measure I L
 
-Vi (volts)	IL (amps)
+<img width="1290" height="455" alt="image" src="https://github.com/user-attachments/assets/c17a1cd3-050d-4547-a2db-57da3950ccc2" />
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
-Vi (volts)	RTh (Ω)
+<img width="1330" height="552" alt="image" src="https://github.com/user-attachments/assets/67a6806e-0163-4207-a670-c5f636ff838c" />
 
 
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
 
-Vi (volts)	IN (amps)
+<img width="1396" height="534" alt="image" src="https://github.com/user-attachments/assets/8d783d9e-17cc-4361-b6d8-713eaea742ad" />
+
 	
 **MODEL CALCULATION:**
 
@@ -98,6 +106,9 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+<img width="565" height="679" alt="image" src="https://github.com/user-attachments/assets/6346dea9-58ee-4743-8374-9be7af4ad0d8" />
+<img width="868" height="671" alt="image" src="https://github.com/user-attachments/assets/6664f0ba-e343-4056-858e-25eccdcdf216" />
+<img width="391" height="472" alt="image" src="https://github.com/user-attachments/assets/da376e9c-914a-415f-9245-8f5ed9e88f1c" />
 
 
 **RESULT:**
